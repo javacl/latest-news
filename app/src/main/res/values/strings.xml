@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">latest-news</string>
+
+    <string name="link_latest_news_logo">https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Akharinkhabar_pic.png/480px-Akharinkhabar_pic.png</string>
+    <string name="link_avatar">https://platformboy.com/wp-content/uploads/2022/10/%D8%B9%DA%A9%D8%B3-%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84-%D9%85%D8%B1%D8%AF-%D8%B1%DB%8C%D8%B4-%D8%AF%D8%A7%D8%B1.png</string>
+
+    <string name="error_server">ارتباط با سرور برقرار نیست :(</string>
+    <string name="error_general">متاسفیم؛ بنظر می‌رسه مشکلی به‌وجود اومده!</string>
+    <string name="error_connection">لطفا به اینترنت متصل شین.</string>
+
+    <string name="txt_search">جستجو…</string>
+    <string name="txt_write_comment">نوشتن نظر…</string>
+    <string name="txt_fake_view_and_date">10 میلیون بازدید\u0020\u0020\u0020•\u0020\u0020\u00205 ماه قبل</string>
+    <string name="txt_fake_like_numbers">15.4 هزار</string>
+    <string name="txt_fake_subscriber">11.5 میلیون مشترک</string>
+    <string name="txt_fake_comments">15.6 هزار نفر نظر دادن</string>
+
+    <string name="label_latest_news">آخرین خبر</string>
+    <string name="label_i_realized">متوجه شدم</string>
+    <string name="label_retry">تلاش مجدد</string>
+    <string name="label_optional">اختیاری</string>
+    <string name="label_system_default">پیش‌فرض سیستم</string>
+    <string name="label_light">روشن</string>
+    <string name="label_dark">تاریک</string>
+    <string name="label_selected">انتخاب‌شده</string>
+    <string name="label_choose_theme">انتخاب تِم</string>
+    <string name="label_home">خونه</string>
+    <string name="label_movie">فیلم</string>
+    <string name="label_subscription">اشتراک</string>
+    <string name="label_library">کتابخونه</string>
+    <string name="label_share">اشتراک‌گذاری</string>
+    <string name="label_download">دانلود</string>
+    <string name="label_save">ذخیره</string>
+    <string name="label_more">بیشتر</string>
+    <string name="label_less">کمتر</string>
+    <string name="label_subscribe">خرید اشتراک</string>
+    <string name="label_similar_items">موارد مشابه</string>
+
+</resources>
